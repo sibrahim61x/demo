@@ -1,7 +1,7 @@
 # Table of Contents  
 
 1. [Introduction](#introduction)  
-2. [Getting Started](#getting-started)  
+2. [Getting Started](#2-getting-started)  
    - 2.1 [System Requirements](#21-system-requirements)  
    - 2.2 [User Interface](#22-user-interface)  
 3. [Creating Linear Regression Models](#creating-linear-regression-models)  
